@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(fondo.png);   
+    background-size: 100%;
+    background-position: center;
+    font-family: sans-serif;
+}
+a{
+  Background-code:black;
+  color:white
+}
